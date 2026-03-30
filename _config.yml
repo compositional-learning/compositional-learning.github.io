@@ -1,0 +1,9 @@
+title: "Compositional Learning: Perspectives, Methods, and Paths Forward"
+description: Workshop website for the ICML 2026 on Compositional Learning
+  ---
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# Build settings
+markdown: kramdown
+include: ['_pages']
+ga_id: G-N5C97J84YW

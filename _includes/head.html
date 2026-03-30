@@ -1,0 +1,32 @@
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <meta name="keywords" content={{ page.categories }}>
+
+  <link rel="shortcut icon" href="{{ "/static/img/comp.ico" | prepend:site.baseurl }}">
+  <link rel="apple-touch-icon" href="{{ "/static/img/comp.ico" | prepend:site.baseurl }}">
+  <link rel="apple-touch-icon-precomposed" href="{{ "/static/img/comp.ico" | prepend:site.baseurl }}">
+
+
+  <title>{{ page.urltitle }}</title>
+  <meta name="description" content="{{site.description}}">
+
+  <!--Open Graph Related Stuff-->
+  <meta property="og:title" content="{{page.title}}"/>
+  <meta property="og:url" content="https://s2r-at-scale-workshop.github.io"/>
+  <meta property="og:description" content="{{site.description}}"/>
+  <meta property="og:site_name" content="{{page.urltitle}}"/>
+  <meta property="og:image" content=""/>
+  <meta property="og:image:url" content=""/>
+
+  <!--Twitter Card Stuff-->
+  <!-- <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:title" content="{{page.title}}"/>
+  <meta name="twitter:description" content="{{site.description}}"/> -->
+
+  <!-- CSS  -->
+  <link rel="stylesheet" type="text/css" href="{{ "/static/css/bootstrap.min.css" | prepend:site.baseurl }}">
+  <link rel="stylesheet" type="text/css" href="{{ "/static/css/main.css" | prepend:site.baseurl }}" media="screen,projection">
+</head>
