@@ -189,6 +189,7 @@ acknowledgements: ""
           <li>Dual-submission policy: We welcome ongoing and unpublished work. We will also accept papers that are under review at the time of submission, or that have been recently accepted without published proceedings.</li>
           <li>Non-archival: The workshop is a non-archival venue and will not have official proceedings. Workshop submissions can be subsequently or concurrently submitted to other venues.</li>
           <li>Visibility: Submissions and reviews will not be public. Only accepted papers will be made public.</li>
+          <li>Mandatory Reciprocal Reviewing: At least one author per submission must commit to reviewing for the workshop. You will need to designate the reviewing author(s) on OpenReview. Submissions without a nominated reviewer may be desk-rejected.</li>
           <li>Contact: For any questions, please contact us at <a href="mailto:compositional-learning-icml-2026@googlegroups.com">compositional-learning-icml-2026@googlegroups.com</a>. </li>
         </ul>
         If you would like to become a reviewer for this workshop, please let us know <a href="https://forms.gle/nG4idePAF4Qp6TNk8">https://forms.gle/nG4idePAF4Qp6TNk8</a>.
