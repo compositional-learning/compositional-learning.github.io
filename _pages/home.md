@@ -63,7 +63,7 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="https://nouhadziri.github.io">Nouha Dziri</a>
-      <h6>A2I</h6>
+      <h6>Cohere</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-4">
