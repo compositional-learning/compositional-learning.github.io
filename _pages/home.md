@@ -124,15 +124,6 @@ acknowledgements: ""
         <h6>OpenAI</h6>
       </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
-      <a href="https://tailin.org">
-        <img class="people-pic" src="{{ "/static/img/people/tailin.jpg" | prepend:site.baseurl }}">
-      </a>
-      <div class="people-name">
-        <a href="https://tailin.org">Tailin Wu</a>
-        <h6>Westlake University</h6>
-      </div>
-  </div>
 </div>
 
 <hr />
@@ -373,14 +364,15 @@ acknowledgements: ""
 <hr />
 
 <!-- Sponsors -->
-<!-- <div class="row" id="sponsors">
+<div class="row" id="sponsors">
   <div class="col-xs-12">
     <h2>Sponsors</h2>
   </div>
 </div>
 <div class="row">
-  <div class="col-xs-12">
-    <p>TBD</p>
+  <div class="col-xs-12 col-lg-6">
+    <img src="{{ "/static/img/sponsors/cup.png" | prepend:site.baseurl }}" alt="Sponsor" style="max-width: 300px; margin: 20px;">
   </div>
-</div> -->
-<!-- <hr /> -->
+</div>
+
+<hr />
