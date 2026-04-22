@@ -376,7 +376,7 @@ acknowledgements: ""
 </div>
 <div class="row">
   <div class="col-xs-12 col-lg-6">
-    <img src="{{ "/static/img/sponsors/guide.png" | prepend:site.baseurl }}" alt="Guide Labs" style="max-width: 300px; margin: 20px;">
+    <img src="{{ "/static/img/sponsors/guide.svg" | prepend:site.baseurl }}" alt="Guide Labs" style="max-width: 300px; margin: 20px;">
   </div>
   <div class="col-xs-12 col-lg-6">
     <img src="{{ "/static/img/sponsors/cup.png" | prepend:site.baseurl }}" alt="Cambridge University Press" style="max-width: 300px; margin: 20px;">
