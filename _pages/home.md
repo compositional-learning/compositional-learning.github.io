@@ -155,7 +155,7 @@ acknowledgements: ""
     <p>
           <ul>
             <li><b>Paper submissions open</b>: March 30, 2026, AOE </li>
-            <li><b>Paper submissions deadline</b>: April 24, 2026, AOE </li>
+            <li><b>Paper submissions deadline</b>: <s>April 24, 2026, AOE </s> May 1, 2026, AOE </li>
             <li><b>Notification to authors</b>: May 15, 2026, AOE </li>
         </ul>
     </p>
@@ -177,8 +177,8 @@ acknowledgements: ""
           <li>Submission URL: <a href="https://openreview.net/group?id=ICML.cc/2026/Workshop/CompLearn">https://openreview.net/group?id=ICML.cc/2026/Workshop/CompLearn</a> </li>
           <li>Format: All submissions must be in PDF format and anonymized. Submissions are limited to 4/8 content pages, including all figures and tables; unlimited additional pages containing references and supplementary materials are allowed. Reviewers may choose to read the supplementary materials but will not be required to. Camera-ready versions may go up to 5/9 content pages.</li>
           <li>Style file: You must format your submission using the <a href="https://media.icml.cc/Conferences/ICML2026/Styles/icml2026.zip">ICML 2026 LaTeX style file</a>. The maximum file size for submissions is 20MB. Submissions that violate the ICML style (e.g., by decreasing margins or font sizes) or page limits may be rejected without further review.</li>
-          <li>Dual-submission policy: We welcome ongoing and unpublished work. We will also accept papers that are under review at the time of submission, or that have been recently accepted without published proceedings.</li>
-          <li>Non-archival: The workshop is a non-archival venue and will not have official proceedings. Workshop submissions can be subsequently or concurrently submitted to other venues.</li>
+          <li><b>Dual-submission policy</b>: We welcome ongoing and unpublished work. We will also accept papers that are under review at the time of submission, or that have been recently accepted without published proceedings.</li>
+          <li><b>Non-archival</b>: The workshop is a non-archival venue and will not have official proceedings. Workshop submissions can be subsequently or concurrently submitted to other venues.</li>
           <li>Visibility: Submissions and reviews will not be public. Only accepted papers will be made public.</li>
           <li>Mandatory Reciprocal Reviewing: At least one author per submission must commit to reviewing for the workshop. You will need to designate the reviewing author(s) on OpenReview. Submissions without a nominated reviewer may be desk-rejected.</li>
           <li>Contact: For any questions, please contact us at <a href="mailto:compositional-learning-icml-2026@googlegroups.com">compositional-learning-icml-2026@googlegroups.com</a>. </li>
@@ -202,8 +202,8 @@ acknowledgements: ""
   <div class="col-xs-12">
     <table class="table table-striped" id="schedule-table">
     <tbody>
-    <tr> <th scope="row">08:45 AM</th> <td>Opening Remarks</td></tr>
-    <tr> <th scope="row">08:50 AM</th> <td>4 Spotlight Talks</td></tr>
+    <tr> <th scope="row">08:25 AM</th> <td>Opening Remarks</td></tr>
+    <tr> <th scope="row">08:30 AM</th> <td>3 Spotlight Talks</td></tr>
     <!-- <tr> <th scope="row">08:20 AM</th> <td>
       Spotlight Talk: ###<br /> TBD
       <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a>
@@ -232,7 +232,7 @@ acknowledgements: ""
         Abstract: .
       </div>
     </td></tr> -->
-    <tr> <th scope="row">9:30 AM</th> <td>
+    <tr> <th scope="row">9:00 AM</th> <td>
       Invited Talk: Francesco Locatello<br />
       <!-- <a data-toggle="collapse" href="#schedule-talk1" aria-cexpanded="false" aria-controls="schedule-talk1">[Abstract]</a> -->
       <!-- <a target="_blank" href="/static/slides-2021/roger_levy.pdf">[Slides]</a> -->
@@ -240,30 +240,31 @@ acknowledgements: ""
         Abstract: .
       </div> -->
     </td></tr>
-    <tr> <th scope="row">10:05 AM</th> <td>
+    <tr> <th scope="row">9:35 AM</th> <td>
       Invited Talk: Nouha Dziri<br />
       <!-- <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a> -->
       <!-- <div class="collapse" id="schedule-talk2">
         Abstract: .
       </div> -->
     </td></tr>
-    <tr> <th scope="row" >10:40 AM</th> <td>Coffee Break</td></tr>
-    <tr> <th scope="row">10:50 AM</th> <td>
+    <tr> <th scope="row" >10:10 AM</th> <td>Coffee Break</td></tr>
+    <tr> <th scope="row">10:20 AM</th> <td>
       Invited Talk: Parisa Kordjamshidi<br />
       <!-- <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a> -->
       <!-- <div class="collapse" id="schedule-talk2">
         Abstract: .
       </div> -->
     </td></tr>
-    <tr> <th scope="row">11:25 AM</th> <td>
-      Invited Talk: Samy Bengio<br />
+    <tr> <th scope="row">10:55 AM</th> <td>
+      Invited Talk: Guide Labs<br />
       <!-- <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a> -->
       <!-- <div class="collapse" id="schedule-talk2">
         Abstract: .
       </div> -->
     </td></tr>
-    <tr> <th scope="row" >12:00 PM</th> <td>Poster Session 1</td></tr>
-    <tr> <th scope="row" >13:00 PM</th> <td>Lunch Break</td></tr>
+    <tr> <th scope="row" >11:25 AM</th> <td>Awards cerimony</td></tr>
+    <tr> <th scope="row" >11:30 AM</th> <td>Poster Session 1</td></tr>
+    <tr> <th scope="row" >12:30 PM</th> <td>Lunch Break</td></tr>
     </tbody>
     </table>
   </div>
@@ -273,6 +274,13 @@ acknowledgements: ""
   <div class="col-xs-12">
     <table class="table table-striped">
     <tbody>
+    <tr> <th scope="row">1:25 PM</th> <td>
+      Invited Talk: Samy Bengio<br />
+      <!-- <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a> -->
+      <!-- <div class="collapse" id="schedule-talk2">
+        Abstract: .
+      </div> -->
+    </td></tr>
     <tr> <th scope="row">2:00 PM</th> <td>
       Invited Talk: Noémi Éltető<br />
       <!-- <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a> -->
@@ -371,7 +379,10 @@ acknowledgements: ""
 </div>
 <div class="row">
   <div class="col-xs-12 col-lg-6">
-    <img src="{{ "/static/img/sponsors/cup.png" | prepend:site.baseurl }}" alt="Sponsor" style="max-width: 300px; margin: 20px;">
+    <img src="{{ "/static/img/sponsors/guide.png" | prepend:site.baseurl }}" alt="Guide Labs" style="max-width: 300px; margin: 20px;">
+  </div>
+  <div class="col-xs-12 col-lg-6">
+    <img src="{{ "/static/img/sponsors/cup.png" | prepend:site.baseurl }}" alt="Cambridge University Press" style="max-width: 300px; margin: 20px;">
   </div>
 </div>
 
