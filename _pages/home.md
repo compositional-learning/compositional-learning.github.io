@@ -44,10 +44,28 @@ acknowledgements: ""
 
 <div class="row" id="speakers">
   <div class="col-xs-12">
-    <h2>Speakers</h2>
+    <h2>Speakers and Panelists</h2>
   </div>
 </div>
 <div class="row">
+  <div class="col-xs-6 col-lg-4">
+    <a href="https://ayaismail.com">
+      <img class="people-pic" src="{{ "/static/img/people/aya.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://ayaismail.com">Aya Abdelsalam Ismail</a>
+      <h6>GuideLabs</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-4">
+    <a href="https://research.ibm.com/people/david-cox">
+      <img class="people-pic" src="{{ "/static/img/people/david.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://research.ibm.com/people/david-cox">David Cox</a>
+      <h6>IBM Research</h6>
+    </div>
+  </div>
   <div class="col-xs-6 col-lg-4">
     <a href="https://www.francescolocatello.com/">
       <img class="people-pic" src="{{ "/static/img/people/fra.jpg" | prepend:site.baseurl }}">
@@ -55,6 +73,24 @@ acknowledgements: ""
     <div class="people-name">
       <a href="https://www.francescolocatello.com/">Francesco Locatello</a>
       <h6>ISTA</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-4">
+    <a href="https://noambrown.github.io">
+      <img class="people-pic" src="{{ "/static/img/people/noam.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://noambrown.github.io">Noam Brown</a>
+      <h6>OpenAI</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-4">
+    <a href="https://noemielteto.github.io">
+      <img class="people-pic" src="{{ "/static/img/people/noemi.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://noemielteto.github.io">Noémi Éltető</a>
+      <h6>Google DeepMind</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-4">
@@ -84,47 +120,8 @@ acknowledgements: ""
       <h6>Apple, EPFL</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-4">
-    <a href="https://noemielteto.github.io">
-      <img class="people-pic" src="{{ "/static/img/people/noemi.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://noemielteto.github.io">Noémi Éltető</a>
-      <h6>Google Deepmind</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-4">
-    <a href="https://research.ibm.com/people/david-cox">
-      <img class="people-pic" src="{{ "/static/img/people/david.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://research.ibm.com/people/david-cox">David Cox</a>
-      <h6>IBM Research</h6>
-    </div>
-  </div>
 </div>
 
-
-<hr />
-
-<!-- Panelists -->
-
-<div class="row" id="panelists">
-  <div class="col-xs-12">
-    <h2>Panelists</h2>
-  </div>
-</div>
-<div class="row">
-  <div class="col-xs-6 col-lg-3">
-      <a href="https://noambrown.github.io">
-        <img class="people-pic" src="{{ "/static/img/people/noam.jpg" | prepend:site.baseurl }}">
-      </a>
-      <div class="people-name">
-        <a href="https://noambrown.github.io">Noam Brown</a>
-        <h6>OpenAI</h6>
-      </div>
-  </div>
-</div>
 
 <hr />
 
@@ -233,7 +230,7 @@ acknowledgements: ""
       </div>
     </td></tr> -->
     <tr> <th scope="row">9:00 AM</th> <td>
-      Invited Talk: Francesco Locatello<br />
+      Invited Talk: Francesco Locatello (Assistant Professor, ISTA)<br />
       <!-- <a data-toggle="collapse" href="#schedule-talk1" aria-cexpanded="false" aria-controls="schedule-talk1">[Abstract]</a> -->
       <!-- <a target="_blank" href="/static/slides-2021/roger_levy.pdf">[Slides]</a> -->
       <!-- <div class="collapse" id="schedule-talk1">
@@ -241,7 +238,7 @@ acknowledgements: ""
       </div> -->
     </td></tr>
     <tr> <th scope="row">9:35 AM</th> <td>
-      Invited Talk: Nouha Dziri<br />
+      Invited Talk: Nouha Dziri (Senior Research Scientist, Cohere)<br />
       <!-- <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a> -->
       <!-- <div class="collapse" id="schedule-talk2">
         Abstract: .
@@ -249,14 +246,14 @@ acknowledgements: ""
     </td></tr>
     <tr> <th scope="row" >10:10 AM</th> <td>Coffee Break</td></tr>
     <tr> <th scope="row">10:20 AM</th> <td>
-      Invited Talk: Parisa Kordjamshidi<br />
+      Invited Talk: Parisa Kordjamshidi (Associate Professor, Michigan State University)<br />
       <!-- <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a> -->
       <!-- <div class="collapse" id="schedule-talk2">
         Abstract: .
       </div> -->
     </td></tr>
     <tr> <th scope="row">10:55 AM</th> <td>
-      Invited Talk: Guide Labs<br />
+      Invited Talk: Aya Abdelsalam Ismail (CTO, Guide Labs)<br />
       <!-- <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a> -->
       <!-- <div class="collapse" id="schedule-talk2">
         Abstract: .
@@ -275,21 +272,21 @@ acknowledgements: ""
     <table class="table table-striped">
     <tbody>
     <tr> <th scope="row">1:25 PM</th> <td>
-      Invited Talk: Samy Bengio<br />
+      Invited Talk: Samy Bengio (Senior Director, Apple and Adjunct Professor, EPFL)<br />
       <!-- <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a> -->
       <!-- <div class="collapse" id="schedule-talk2">
         Abstract: .
       </div> -->
     </td></tr>
     <tr> <th scope="row">2:00 PM</th> <td>
-      Invited Talk: Noémi Éltető<br />
+      Invited Talk: Noémi Éltető (Research Scientist, Google DeepMind)<br />
       <!-- <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a> -->
       <!-- <div class="collapse" id="schedule-talk2">
         Abstract: .
       </div> -->
     </td></tr>
     <tr> <th scope="row">2:35 PM</th> <td>
-      Invited Talk: David Cox<br />
+      Invited Talk: David Cox (VP for AI models, IBM)<br />
       <!-- <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a> -->
       <!-- <div class="collapse" id="schedule-talk2">
         Abstract: .
