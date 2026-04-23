@@ -36,8 +36,21 @@ acknowledgements: ""
     </div>
 </div>
 
-<br />
 
+
+<!-- Awards Banner -->
+<div class="row">
+  <div class="col-xs-12">
+  <center>
+    <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+        <p style="color: white; margin: 0; font-size: 16px; text-align: center;">🏆 <strong>GuideLabs</strong> and <strong>Cambridge University Press</strong> are sponsoring awards up to $500 + books 🏆</p>
+        <a href="#awards" class="nav-link" style="display: inline-block; background: white; color: #667eea; padding: 10px 30px; border-radius: 25px; margin-top: 15px; font-weight: bold; border: none; text-decoration: none;">Learn More →</a>
+    </div>
+    </center>
+  </div>
+</div>
+
+<br />
 <hr />
 
 <!-- Speakers -->
@@ -183,6 +196,31 @@ acknowledgements: ""
         If you would like to become a reviewer for this workshop, please let us know <a href="https://forms.gle/nG4idePAF4Qp6TNk8">https://forms.gle/nG4idePAF4Qp6TNk8</a>.
       </p>
     </div>
+</div>
+
+<hr />
+
+<!-- Awards -->
+<div class="row" id="awards">
+  <div class="col-xs-12">
+    <h2>Awards</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12">
+    <p>
+      We are pleased to announce that <strong>GuideLabs</strong> and <strong>Cambridge University Press</strong> are sponsoring this year's awards:
+    </p>
+    <ul>
+      <li>GuideLabs Best Paper Award: ($500)</li>
+      <li>GuideLabs Best Student Paper Award: ($400)</li>
+      <li>GuideLabs Best Reviewer Award ($150)</li>
+      <li>Cambridge University Press is offering a book from the Cambridge catalog of the prize winner's choice up to a value of $100 to every author/reviewer receiving an award.</li>
+    </ul>
+    <p>
+      We anticipate being able to offer limited travel grants for students requiring financial assistance, as well as to support diversity and inclusion initiatives. Further details will follow, but prospective applicants are encouraged to reach out to our contact email at <a href="mailto:compositional-learning-icml-2026@googlegroups.com">compositional-learning-icml-2026@googlegroups.com</a> to express interest.
+    </p>
+  </div>
 </div>
 
 <hr />
