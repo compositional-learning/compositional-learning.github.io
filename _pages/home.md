@@ -209,17 +209,14 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-      We are pleased to announce that <strong>GuideLabs</strong> and <strong>Cambridge University Press</strong> are sponsoring this year's awards:
+      We are pleased to announce that <strong>GuideLabs</strong> is sponsoring this year's awards:
     </p>
     <ul>
-      <li>GuideLabs Best Paper Award: ($500)</li>
-      <li>GuideLabs Best Student Paper Award: ($400)</li>
-      <li>GuideLabs Best Reviewer Award ($150)</li>
-      <li>Cambridge University Press is offering a book from the Cambridge catalog of the prize winner's choice up to a value of $100 to every author/reviewer receiving an award.</li>
+      <li>Best Paper Award: ($500)</li>
+      <li>Best Student Paper Award: ($400)</li>
+      <li>Best Reviewer Award ($150)</li>
     </ul>
-    <p>
-      We anticipate being able to offer limited travel grants for students requiring financial assistance, as well as to support diversity and inclusion initiatives. Further details will follow, but prospective applicants are encouraged to reach out to our contact email at <a href="mailto:compositional-learning-icml-2026@googlegroups.com">compositional-learning-icml-2026@googlegroups.com</a> to express interest.
-    </p>
+    Furthermore, <strong>Cambridge University Press</strong> is offering a book from the Cambridge catalog of the prize winner's choice up to a value of $100 to every author/reviewer receiving an award.
   </div>
 </div>
 
