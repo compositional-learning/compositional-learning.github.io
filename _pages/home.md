@@ -165,8 +165,8 @@ acknowledgements: ""
     <p>
           <ul>
             <li><b>Paper submissions open</b>: March 30, 2026, AOE </li>
-            <li><b>Paper submissions deadline</b>: <s>April 24, 2026, AOE </s> May 1, 2026, AOE </li>
-            <li><b>Notification to authors</b>: May 15, 2026, AOE </li>
+            <li><b>Paper submissions deadline</b>: <s>April 24, 2026, AOE </s> → <b>May 7, 2026, AOE </b></li>
+            <li><b>Notification to authors</b>: May 22, 2026, AOE </li>
         </ul>
     </p>
   </div>
