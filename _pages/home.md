@@ -15,7 +15,7 @@ acknowledgements: ""
   <div class="col-xs-12">
     <center><h4><b>The 2nd Workshop on</b></h4></center>
     <center><h1><b>Compositional Learning: Safety, Interpretability, and Agents</b></h1></center>
-    <center><h3>ICML 2026, COEX Convention & Exhibition Center (TBD) July, 2026 </h3></center>
+    <center><h3>ICML 2026, COEX Convention & Exhibition Center (Auditorium), July 11th, 2026 </h3></center>
   </div>
 </div>
 
@@ -133,6 +133,15 @@ acknowledgements: ""
       <h6>Apple, EPFL</h6>
     </div>
   </div>
+  <div class="col-xs-6 col-lg-4">
+    <a href="https://personal.ntu.edu.sg/wangwy/">
+      <img class="people-pic" src="{{ "/static/img/people/wenya.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://personal.ntu.edu.sg/wangwy/">Wenya Wang</a>
+      <h6>Nanyang Technological University</h6>
+    </div>
+  </div>
 </div>
 
 
@@ -165,7 +174,7 @@ acknowledgements: ""
     <p>
           <ul>
             <li><b>Paper submissions open</b>: March 30, 2026, AOE </li>
-            <li><b>Paper submissions deadline</b>: <s>April 24, 2026, AOE </s> → <b>May 7, 2026, AOE </b></li>
+            <li><b>Paper submissions deadline</b>: May 7, 2026, AOE </li>
             <li><b>Notification to authors</b>: May 22, 2026, AOE </li>
         </ul>
     </p>
