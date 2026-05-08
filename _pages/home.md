@@ -410,10 +410,13 @@ acknowledgements: ""
   </div>
 </div>
 <div class="row">
-  <div class="col-xs-12 col-lg-6">
+  <div class="col-xs-12 col-lg-4">
+    <img src="{{ "/static/img/sponsors/snf.png" | prepend:site.baseurl }}" alt="Swiss National Science Foundation" style="max-width: 300px; margin: 20px;">
+  </div>
+  <div class="col-xs-12 col-lg-4">
     <img src="{{ "/static/img/sponsors/guide.svg" | prepend:site.baseurl }}" alt="Guide Labs" style="max-width: 300px; margin: 20px;">
   </div>
-  <div class="col-xs-12 col-lg-6">
+  <div class="col-xs-12 col-lg-4">
     <img src="{{ "/static/img/sponsors/cup.png" | prepend:site.baseurl }}" alt="Cambridge University Press" style="max-width: 300px; margin: 20px;">
   </div>
 </div>
