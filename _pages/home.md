@@ -73,7 +73,7 @@ acknowledgements: ""
       <h6>ISTA</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-4">
+  <!-- <div class="col-xs-6 col-lg-4">
     <a href="https://noambrown.github.io">
       <img class="people-pic" src="{{ "/static/img/people/noam.jpg" | prepend:site.baseurl }}">
     </a>
@@ -81,7 +81,7 @@ acknowledgements: ""
       <a href="https://noambrown.github.io">Noam Brown</a>
       <h6>OpenAI</h6>
     </div>
-  </div>
+  </div> -->
   <div class="col-xs-6 col-lg-4">
     <a href="https://noemielteto.github.io">
       <img class="people-pic" src="{{ "/static/img/people/noemi.jpg" | prepend:site.baseurl }}">
@@ -351,7 +351,7 @@ acknowledgements: ""
       Invited Talk: Francesco Locatello (Assistant Professor, ISTA)<br /> <i>Mechanistic interpretability to interpret scientific data.</i>
     </td></tr>
     <tr> <th scope="row" >3:10 PM</th> <td>Panel Discussion<br />
-     with Noam Brown, Wenya Wang, Noémi Éltető, Aya Abdelsalam Ismail, Parisa Kordjamshidi, and Francesco Locatello
+     with Wenya Wang, Noémi Éltető, Aya Abdelsalam Ismail, Parisa Kordjamshidi, and Francesco Locatello
     </td></tr>
 <tr>
   <th scope="row" style="white-space: nowrap; min-width: 100px;">4:00 PM</th>
